@@ -143,8 +143,8 @@ function DropdownMenu(){
             <DropdownItem ><a href="https://codepen.io/ray126/full/qBZoaGo" className="dropdown-links">Drum Machine</a></DropdownItem>
             <DropdownItem ><a href="https://codepen.io/ray126/full/jOqarER" className="dropdown-links">Markdown Previewer</a></DropdownItem>
             <DropdownItem ><a href="https://codepen.io/ray126/full/yLOXmGG" className="dropdown-links">Random Quote Generator</a></DropdownItem>
-            <DropdownItem ><a href="#" className="dropdown-links">Calculator (Coming Soon)</a></DropdownItem>
-            <DropdownItem ><a href="#" className="dropdown-links">Pomodoro Clock (Coming Soon)</a></DropdownItem>
+            <DropdownItem ><a href="https://ray1842.github.io/Basic-Calculator/" className="dropdown-links">Calculator</a></DropdownItem>
+            <DropdownItem ><a href="https://codepen.io/ray126/full/WNwgLEE" className="dropdown-links">Pomodoro Clock</a></DropdownItem>
           </div>
       </CSSTransition>
 
