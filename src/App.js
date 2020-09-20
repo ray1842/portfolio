@@ -13,7 +13,7 @@ import {CSSTransition} from 'react-transition-group';
 function App() {
   return (
     <div>
-      <title>My Portfolio</title>
+      <head><title>My Portfolio</title></head>
       <Navbar>
         <NavItem icon={<HomeIcon/>}><a href="#intro-section"></a></NavItem>
         <NavItem icon={<ContactIcon/>}><a href="#contact-section"></a></NavItem>
