@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "621bfbeff7c7d6146a61ff887b6364f6",
+    "revision": "3cc91a467c568dc64d66da6900dfa4bf",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "806f6b47e28c4a293719",
-    "url": "/portfolio/static/css/main.025e3d85.chunk.css"
+    "revision": "2cd5ff4de0c1baf541a8",
+    "url": "/portfolio/static/css/main.61a113a3.chunk.css"
   },
   {
     "revision": "d77b649ae2e739b5c5b4",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.19fb4646.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "806f6b47e28c4a293719",
-    "url": "/portfolio/static/js/main.4ac85ecb.chunk.js"
+    "revision": "2cd5ff4de0c1baf541a8",
+    "url": "/portfolio/static/js/main.07959e91.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -44,8 +44,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/leftarrow.f88139ef.svg"
   },
   {
+    "revision": "51c2eab22c8994e70e7633979982b451",
+    "url": "/portfolio/static/media/python.51c2eab2.svg"
+  },
+  {
     "revision": "d887870045b080ffc114ac72464d19ae",
     "url": "/portfolio/static/media/react.d8878700.svg"
+  },
+  {
+    "revision": "4092c0bfabcff168e6bbaa980ba41426",
+    "url": "/portfolio/static/media/scientific_computing.4092c0bf.svg"
   },
   {
     "revision": "cbc923a563d2d2962d844b3be01b9230",
